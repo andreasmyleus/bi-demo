@@ -166,10 +166,9 @@ cython_debug/
 
 # Project specific
 # Database files
-*.db
+#*.db
 *.sqlite
 *.sqlite3
-weather.db
 
 # Data files (optional - uncomment if you don't want to track CSV data)
 # *.csv
